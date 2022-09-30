@@ -1,0 +1,13 @@
+In userModel user will have their credentials
+1.First Name , Middle Name, Last Name
+2.Address
+3.location
+4.emailId
+5.phoneNumber
+6.AdharNumber
+7.UserName
+8.Password
+getters setters
+constructors
+toStrign()
+and other business logic
